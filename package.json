@@ -1,0 +1,23 @@
+{
+  "name": "projet_3-htmlcsssass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch  ./main.scss:./style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarahgues/Projet_3-HtmlCssSass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sarahgues/Projet_3-HtmlCssSass/issues"
+  },
+  "homepage": "https://github.com/Sarahgues/Projet_3-HtmlCssSass#readme",
+  "description": ""
+}
